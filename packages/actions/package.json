@@ -44,7 +44,7 @@
 	},
 	"homepage": "https://discord.js.org",
 	"dependencies": {
-		"@actions/core": "^1.9.0",
+		"@actions/core": "^1.9.1",
 		"tslib": "^2.4.0"
 	},
 	"engines": {
